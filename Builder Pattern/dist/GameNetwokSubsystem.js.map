@@ -1,0 +1,1 @@
+{"version":3,"file":"GameNetwokSubsystem.js","sourceRoot":"","sources":["../src/GameNetwokSubsystem.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,mBAAmB;IAE5B,YAAY,CAAQ;QAChB,IAAI,CAAC,IAAI,GAAC,CAAC,CAAC;IAChB,CAAC;IAED,OAAO;QACH,OAAO,CAAC,GAAG,CAAC,aAAa,IAAI,CAAC,IAAI,WAAW,CAAC,CAAC;IACnD,CAAC;CACJ"}
