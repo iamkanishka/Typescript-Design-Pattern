@@ -1,0 +1,2 @@
+export const INITIAL_TEXT = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.";
+//# sourceMappingURL=constants.js.map
